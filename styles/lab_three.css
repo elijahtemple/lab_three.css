@@ -1,0 +1,13 @@
+.card {
+    background-color: #fc0;
+    border-radius: 0.25rem;
+    box-shadow: 0rem 1.125rem 1.5rem rgb(0 0 0 / 12%);
+    width: 24rem;
+  }
+  
+iframe {
+    border-bottom: 0.25rem solid #fc0;
+    border-radius: 0.25rem 0.25rem 0 0;
+    height: auto;
+    width: 100%;
+  }
